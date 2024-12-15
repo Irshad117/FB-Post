@@ -1,0 +1,24 @@
+.fa-solid{
+    color: red;
+}
+
+.card-title{
+    color: blue !important;
+}
+.card-img-top{
+    width: 287px;
+    margin-left: -32px;
+    margin-top: -33px;
+}
+
+.btn{
+    margin-top: 10px ;
+}
+
+.card{
+    display: flex;
+}
+
+.form-range {
+    width: 100%;
+}
